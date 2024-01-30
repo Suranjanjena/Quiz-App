@@ -1,0 +1,34 @@
+[
+  {
+    "question": "Which data type does true and false represent in JavaScript?",
+    "choice1": "String",
+    "choice2": "Boolean",
+    "choice3": "Number",
+    "choice4": "Object",
+    "answer": 2
+  },
+  {
+    "question": "How do you iterate over the elements of an array in JavaScript?",
+    "choice1": "Using a for loop with an index variable",
+    "choice2": "Using a while loop with a condition",
+    "choice3": "Using the forEach method",
+    "choice4": "All of the above",
+    "answer": 2
+  },
+  {
+    "question": " What is the output of the following code? let x = 5; let y = x++; console.log(x, y);",
+    "choice1": "5, 6",
+    "choice2": "6, 6",
+    "choice3": "6, 5",
+    "choice4": "Error",
+    "answer": 3
+  },
+  {
+    "question": "What is the correct syntax for defining a function in JavaScript?",
+    "choice1": "function myFunction(params) { code }",
+    "choice2": "myFunction: params -> { code }",
+    "choice3": "const myFunction = (params) => { code }",
+    "choice4": "Both a and c",
+    "answer": 4
+  } 
+]
