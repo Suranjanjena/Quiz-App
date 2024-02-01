@@ -17,6 +17,12 @@ body{
   background-size: cover;
 }
 
+#TJCLogo{
+  height: 150px;
+  width: 150px;
+  margin-bottom: 30px;
+}
+
 h1,
 h2,
 h3,
